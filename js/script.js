@@ -1,0 +1,1 @@
+$("#home").css("height", Math.floor(window.innerHeight/2));
