@@ -1,6 +1,6 @@
-#rodape {
+/* #rodape {
 	width: 100%;
-	/*background-image: linear-gradient(to right, rgba(186,77,14,1), rgba(90,154,163,1));*/
+	
 	background-color: black;
   position: relative;
     bottom:0;
@@ -16,4 +16,24 @@
 	width: 50%;
 	padding-left: 8%;
 	margin-left: 35%
+} */
+html, body{
+	height: 100%;
+	width: 100%;
+
 }
+
+nav {
+	height: 100%;
+	width: 30%;
+	background-color: gray;
+	right: 0px;
+}
+
+main {
+	height: 100%;
+	width: 70%;
+}
+
+
+
